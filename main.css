@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div.wrapper {
+    width: 100%;
+    background-image: url("https://www.bing.com/az/hprichbg/rb/MonkeySoak_ROW11670832233_1920x1080.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 94vh;
+}
+
+.header {
+    padding-top: 10px;
+}
+
+header div p {
+    display: inline-block;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.header-img {
+    width: 15px;
+}
+
+.logo-img {
+    width: 80px;
+    
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.top {
+    height: 100px;
+    position: absolute;
+    left: 30px;
+    top: 200px;
+}
+
+.top p {
+    font-size: 60px;
+}
+
+.input {
+    height: 40px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.inline-div {
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+}
+
+.bottom {
+    position: absolute;
+    right: 30px;
+    bottom: 70px;
+}
+
+.butt {
+    height: 40px;
+    width: 40px;
+    background-color: #333;
+    border: none;
+    border-right: 1px solid #777;
+    color: #888;
+}
+
+.butt-right {
+    height: 40px;
+    width: 80px;
+    background-color: #333;
+    border: none;
+    color: #888;
+}
+
+footer {
+    height: 56px;
+    background-color: #333;
+    color: #888;
+}
+
+footer div p {
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
